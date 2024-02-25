@@ -8,6 +8,7 @@ public class TaskTestUnibellApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TaskTestUnibellApplication.class, args);
+		System.out.println("Hi");
 	}
 
 }
